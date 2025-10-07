@@ -17,7 +17,7 @@ As the frequency increases, the output amplitude decreases, demonstrating the ex
 
 The results align well with theoretical predictions, confirming the expected performance of an RC low-pass circuit.
 
-FINAL_OUTPUTS
+**FINAL_OUTPUTS**
 
 
 
