@@ -23,3 +23,11 @@ The results align well with theoretical predictions, confirming the expected per
 
 <img width="505" height="341" alt="final_plot" src="https://github.com/user-attachments/assets/314224c1-98ff-48f0-9275-008640d43b33" />
 <img width="726" height="182" alt="table" src="https://github.com/user-attachments/assets/a8357047-016b-48f8-9363-02dc1ab746aa" />
+
+
+
+
+
+
+
+Repository URL:https://github.com/Itzmanu2003/low-pass-filter-analysis-manu.git
